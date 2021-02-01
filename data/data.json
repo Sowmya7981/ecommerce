@@ -1,0 +1,31 @@
+{
+	"mobiles":[
+   {
+   	"name":"Nokia 7.2",
+   	"image":"images/nokia7.2.jfif",
+    "originalprice":16000,
+    "price":15999
+   },{
+   	"name":"Samsung j8",
+   	"image":"images/samsung.jfif",
+    "originalprice":15000,
+       "price":14999
+   },{
+   	"name":"micromax",
+   	"image":"images/micromax.jfif",
+    "originalprice":10000,
+    "price":9999
+   },{
+   	"name":"Apple SE",
+   	"image":"images/apple.jfif",
+    "originalprice":31000,
+    "price":30999
+   },{
+   	"name":"Celkon",
+   	"image":"images/celkon.jfif",
+    "originalprice":3000,
+    "price":2999
+   }
+]
+	
+}
